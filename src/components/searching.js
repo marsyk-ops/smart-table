@@ -2,7 +2,7 @@
 
 
 export function initSearching(searchField) {
-    // @todo: #5.1 — настроить компаратор
+    
 
 
     return (query, state, action) => { // result заменили на query
